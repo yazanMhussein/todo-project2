@@ -1,5 +1,5 @@
 # todo-project
-note:- I update from the old to the new one. 
+note:- I update from the old to the new one. </br>
 building a ToDo List where the Users can display their tasks and check the status for each one. call ToDo
 # Home 
 ![Home toDo List](images/Home-ToDoList.png)
