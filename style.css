@@ -1,0 +1,13 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    
+}
+.sizeme{
+    height: 100px;
+    width: 100px;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px; /* Adjust the margin as needed */
+}
