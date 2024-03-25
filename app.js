@@ -1,7 +1,9 @@
 let name = prompt("Enter your name:");
 console.log(name)
 let gender = prompt("Enter your gender (male or female):");
+console.log(gender);
 let age = prompt("Enter your age:");
+console.log(age)
 if(age <= 0 ){
     alert("Age should be greater than zero.");
 
