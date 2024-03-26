@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+     <div class=wripper>
     <script src="app.js"></script>
     <header class="flex">
         <img class="sizeme" src="./images/to-do-list.png" sizes="10px" alt="logo">
@@ -19,12 +20,14 @@
         </nav>
     </header>
     <main>
-        <form action="task">
+         <div class=wripper> 
+        <form class="styleA" action="task">
             <label for="name">Name:</label>
             <input type="text" id="name" name="name" required>
             <button name="name">add</button>
             <br>
         </form>
+        <div class="table-container">    
         <table>
             <thead>
                 <tr>
@@ -47,10 +50,11 @@
             </tr>
         </tbody>
           </table>
+        </div>
     </main>
     <footer>
         <p>cc 2024</p>
     </footer>
-   
+</div> 
 </body>
 </html>
